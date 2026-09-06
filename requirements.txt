@@ -1,0 +1,10 @@
+opencv-python-headless
+numpy
+Pillow
+requests
+web3
+insightface
+onnxruntime
+eth-tester
+py-solc-x
+py-evm
