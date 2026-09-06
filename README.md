@@ -82,11 +82,11 @@ The face-processing demonstration uses a consented test image.
 
 ## Project Files
 
-- FaceVerification.sol
-- final_verification_record.json
-- face_embedding.npy
-- requirements.txt
-- 1786380805789.jpg
+- FaceVerification.sol - Solidity smart contract
+- final_verification_record.json - final verification data
+- requirements.txt - Python dependencies
+
+Private biometric files such as the input image and face embedding are intentionally not included in the public repository.
 
 ## Final Status
 
